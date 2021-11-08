@@ -86,8 +86,7 @@ html{
 
 .dishes-item__big{
   grid-area: 1 / 2 / 3 / 4;
-} 
-
+}
 .plate{
   margin-bottom: 100px;
 }
@@ -99,8 +98,7 @@ html{
   text-align: center;
   margin-bottom: 50px;
   border-top: 1px solid rgba(0, 0, 0, 0.062);
-  padding-top: 23
-  5px;
+  padding-top: 25px;
 }
 
 .plate-grid{
